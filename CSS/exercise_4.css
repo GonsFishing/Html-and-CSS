@@ -1,0 +1,36 @@
+table 
+{
+    background-color: #ecf6ce;
+    width: 100vh;
+}
+
+th
+{
+    background-color: #f5da81;
+    border: 2px dashed #8a4b08;
+}
+
+td
+{
+    border: 2px dotted #adadab
+}
+
+.centered
+{
+    text-align: center;
+}
+
+.gold
+{
+   background-color: #ffd700; 
+}
+
+.silver
+{
+    background-color: #c0c0c0;
+}
+
+.bronze
+{
+    background-color: #b18904;
+}
